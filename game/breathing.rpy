@@ -18,8 +18,8 @@ init python:
             else:
                 scene bg failure
                 $stress +=stress_amount
-            result == stress
-            return result
+            
+            return stress
 
         
 
