@@ -4,7 +4,7 @@
 # name of the character.
 
 label start:
-    //temp values
+    # temp values
     default attempts = 0
     default stress = 60
     default stress_amount = 50

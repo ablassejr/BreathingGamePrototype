@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/breathing.rpy", line 7: expected an indented block
-        def results(result):
-         ^
+File "game/breathing.rpy", line 29: invalid syntax
+            default Minigame_ending = False
+                     ^
 
 Ren'Py Version: Ren'Py 8.3.6.25022803
-Tue Jul  8 12:13:22 2025
+Tue Jul  8 13:49:51 2025
