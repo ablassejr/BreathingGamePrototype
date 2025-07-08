@@ -8,24 +8,20 @@ init python:
         def results(result):
             if attempts == 3:
                 scene bg prefect
-                return $stress += stress_amount*.25
-        
-    
+                $stress += stress_amount*.25
             elif attempts == 2:
                 scene bg success
-                return $stress +=stress_amount*.50
-        
-
+                $stress +=stress_amount*.50
             elif attempts == 1:
                 scene bg success
-                return $stress +=stress_amount*.75
-        
-
+                $stress +=stress_amount*.75
             else:
                 scene bg failure
-                return $stress +=stress_amount
-        
+                $stress +=stress_amount
+            result == stress
+            return result
 
+        
 
         def ending(ending):
             default Minigame_ending = False
