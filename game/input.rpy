@@ -1,4 +1,6 @@
 init python:
+    status = 0 
+
     # Have to import pygame to check for spacebar is held down
     import pygame
 
@@ -77,12 +79,19 @@ init python:
                         # Getting the time
                         self.total_time += st - self.start_st
                         self.start_st = None
+                        global status # ensure to declare you are using the global variable
+                        global attempts
+                        global successful_attempts
+                        breathe = Breathing()
 
-                        if self.total_time > 2.18 and self.total_time < 2.60: ## change to size
-                            renpy.jump("end")
+                        if self.total_time > 1.5 and self.total_time < 3: ## change to size
+                            status += 1
+                            successful_attempts += 1
+                            breathe.characterStateChanger()
                             return
                         else:
-                            renpy.jump("end")
+                            status -= 1
+                            breathe.characterStateChanger()
                             return
                     self.rate = 0
                     raise renpy.IgnoreEvent()
@@ -90,4 +99,4 @@ init python:
             return None
 
 screen test:
-    add IncreaseCircle("circle blue.svg") at truecenter
+    add IncreaseCircle("circle blue.svg") at startingPosition

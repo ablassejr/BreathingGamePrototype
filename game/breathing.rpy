@@ -2,19 +2,30 @@ init python:
 
     class Breathing:
 
-        def characterStateChanger():
+        def characterStateChanger(state):
+
+            if status >= 2:
+                renpy.call("happy")
+            elif status == 1:
+                renpy.call("smile")
+            elif status == 0:
+                renpy.call("straight")
+            elif status == -1:
+                renpy.call("frown")
+            else:
+                renpy.call("cry")
             return
 
-        def results(result):
-            # temp stress
-            stress = 50
-            if attempts == 3:
+        def results(self):
+            global stress
+
+            if successful_attempts >= 3:
                 #scene bg prefect
                 stress += stress_amount*.25
-            elif attempts == 2:
+            elif successful_attempts == 2:
                 #scene bg success
                 stress +=stress_amount*.50
-            elif attempts == 1:
+            elif successful_attempts == 1:
                 #scene bg success
                 stress +=stress_amount*.75
             else:
@@ -23,18 +34,13 @@ init python:
             
             return stress
 
-        
-
-        def ending(ending):
-            Minigame_ending = False
+        def ending(self):
             if stress > 100:
-                Minigame_ending = True
-
-            if Minigame_ending == True:
-                return "bad ending"
+                return "Bad ending"
+            elif status == 3:
+                return "Perfect ending"
             else:
-                return "Good Ending"
-
+                return "Good ending"
 
         def timerDisplay():
             return
