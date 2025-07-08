@@ -99,12 +99,12 @@ init python:
             return None
 
 screen test:
-    add IncreaseCircle("circle red.png") at truecenter
+    add IncreaseCircle("circle blue.svg") at truecenter
 
 label start:
 
     scene white
-    show circle outside at truecenter
+    # show circle outside at truecenter
     "start"
     # show circle red at beginning
     call screen test
