@@ -4,6 +4,10 @@
 # name of the character.
 
 label start:
+    //temp values
+    default attempts = 0
+    default stress = 60
+    default stress_amount = 50
 
     scene white
     # show circle outside at truecenter
