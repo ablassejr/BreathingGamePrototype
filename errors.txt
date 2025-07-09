@@ -2,9 +2,8 @@
 errors listed below, and try again.
 
 
-File "game/input.rpy", line 106: 'onlayer' is not a keyword argument or valid child of the add statement.
-    add IncreaseCircle("circle blue.svg") at position onlayer top
-                                                             ^
+File "game/breathing.rpy", line 94: invalid syntax
+            if stress >= 100
 
 Ren'Py Version: Ren'Py 8.3.6.25022803
-Tue Jul  8 19:40:44 2025
+Wed Jul  9 13:56:19 2025

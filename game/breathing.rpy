@@ -35,7 +35,7 @@ init python:
             return stress
 
         def ending(self):
-            if stress > 100:
+            if stress >= 100:
                 return "Bad ending"
             elif status == 3:
                 return "Perfect ending"
@@ -46,4 +46,55 @@ init python:
             return
 
         def audioManager():
+            global successful_attempts
+            global unsuccessful_attempts
+            stageofstress = 0
+            breathingmingameactive == True
+            global stress
+            
+            
+            while breathingmingameactive == True:
+
+                stageofstress == successful_attempts - unsuccessful_attempts
+            #zen audio
+                while stageofstress == 3:
+                    return
+
+            #good audio
+                while stageofstress == 2:
+                    return
+
+            # normal audio
+                while stageofstress == 1:
+                    return
+
+            # mixed audio
+                while stageofstress == 0:
+                    return
+
+            # bad audio
+                while stageofstress == -1:
+                    return
+
+            # turmoil audio
+                while stageofstress == -2:
+                    return
+
+            # panicked audio
+                while stageofstress == -3:
+                    return
+
+                if attempts == 3:
+                    breathingmingameactive = False
+                    return
+            return
+
+
+            # ending audio
+            if stress >= 100:
+                return
+            else:
+                return
+
+    
             return
