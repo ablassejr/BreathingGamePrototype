@@ -4,7 +4,7 @@
 # name of the character.
 
 default status = 0
-
+init image backgroundCircle = "circle blue.svg" # Background circle image
 label start:
     # temp values
     default attempts = 0
@@ -16,11 +16,11 @@ label start:
 
     $ breathe = Breathing() # class object to clal functions
     $ breathe.characterStateChanger() # shows inital face
-    show circle red at startingPosition
+    show backgroundCircle at startingPosition
     while attempts < 3:
-        call screen test
-        hide circle red # hides and shows red circle again so it is above face, can be fixed with layers
-        show circle red at startingPosition
+        call screen test()
+        hide backgroundCircle # hides and shows red circle again so it is above face, can be fixed with layers
+        show backgroundCircle at startingPosition # maybe should be solid and use a green band(hollow circle) to represent success window
         $ attempts += 1
 
     $ breathe.results() 

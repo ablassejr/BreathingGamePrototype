@@ -1,0 +1,2 @@
+Maybe we use 3 different sprites to indicate the success window with it
+getting smaller for each success.
