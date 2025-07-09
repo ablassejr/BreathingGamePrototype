@@ -2,9 +2,11 @@
 errors listed below, and try again.
 
 
-File "game/input.rpy", line 106: 'onlayer' is not a keyword argument or valid child of the add statement.
-    add IncreaseCircle("circle blue.svg") at position onlayer top
-                                                             ^
+The label fail is defined twice, at File "game/script.rpy", line 62:
+label fail:
+and File "game/script.rpy", line 73:
+label fail:
+
 
 Ren'Py Version: Ren'Py 8.3.6.25022803
-Tue Jul  8 19:40:44 2025
+Wed Jul  9 17:37:12 2025
