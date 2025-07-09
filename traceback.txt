@@ -1,0 +1,30 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 26, in script
+    $ breathe.results()
+  File "game/script.rpy", line 26, in <module>
+    $ breathe.results()
+  File "game/breathing.rpy", line 32, in results
+    stress +=stress_amount
+UnboundLocalError: local variable 'stress' referenced before assignment
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 26, in script
+    $ breathe.results()
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ast.py", line 834, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\python.py", line 1184, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 26, in <module>
+    $ breathe.results()
+  File "game/breathing.rpy", line 32, in results
+    stress +=stress_amount
+UnboundLocalError: local variable 'stress' referenced before assignment
+
+Windows-10-10.0.26100 AMD64
+Ren'Py 8.3.6.25022803
+BreathingGamePrototype 1.0
+Tue Jul  8 19:57:51 2025
