@@ -2,7 +2,7 @@ init python:
 
     class Breathing:
 
-        def characterStateChanger(state):
+        def characterStateChanger(self):
 
             if status >= 2:
                 renpy.call("happy")
@@ -31,7 +31,9 @@ init python:
             else:
                 #scene bg failure
                 stress +=stress_amount
-            
+            # Reset Status Counters
+            successful_attempts = 0 
+            attempts = 0
             return stress
 
         def ending(self):

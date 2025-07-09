@@ -3,7 +3,7 @@ init python:
 
     class IncreaseCircle(renpy.Displayable):
         delayTime = 0.5  # Reset delay time in seconds        
-        def __init__(self, image, difficulty=0.5):
+        def __init__(self, image, difficulty=0.5, target = renpy.Displayable):
             super(IncreaseCircle, self).__init__()
             self.start_image = Image(image)  # Convert string to Image displayable
             self.xysize = [0, 0]
@@ -52,14 +52,26 @@ init python:
                         self.reset_timer = st 
                         renpy.redraw(self, 0)
                         raise renpy.IgnoreEvent()
-
+                if self.xysize[0] == target.xysize[0] and self.xysize[1] == target.xysize[1]:
+                    status += 1
+                    successful_attempts += 1
+                    
+                    if status > 3:
+                        status = 3
+                else:
+                    status -= 1
+                    if status < -1:
+                        status = -1
+                Breathing.characterStateChanger()
+                attempts += 1
+                if attempts >= 3:
+                    Breathing.results()
+                return None
             return None
-
-    config.layers.append("top")
 
 
 
 screen test(difficulty=0.5):
-    add IncreaseCircle ("circle blue.svg", difficulty) at startingPosition
-    add TargetBand ("circle red.png") at startingPosition
+    add TargetBand ("circle green.svg") at startingPosition as target
+    add IncreaseCircle ("circle red.svg", difficulty, target) at startingPosition 
     
