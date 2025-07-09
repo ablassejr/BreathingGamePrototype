@@ -2,8 +2,11 @@
 errors listed below, and try again.
 
 
-File "game/breathing.rpy", line 94: invalid syntax
-            if stress >= 100
+The label start is defined twice, at File "game/after.rpy", line 11:
+label start:
+and File "game/script.rpy", line 104:
+label start:
+
 
 Ren'Py Version: Ren'Py 8.3.6.25022803
-Wed Jul  9 13:56:19 2025
+Tue Jul  8 12:03:12 2025

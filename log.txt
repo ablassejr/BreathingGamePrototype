@@ -1,116 +1,17 @@
-2025-07-09 04:54:30 UTC
+2025-07-08 03:10:32 UTC
 Windows-10-10.0.26100
 Ren'Py 8.3.6.25022803
 
-Early init took 0.08s
-Loading error handling took 0.11s
-Loading script took 1.88s
-Loading save slot metadata took 0.08s
-Loading persistent took 0.00s
-
-File "game/breathing.rpy", line 58: expected an indented block
-            stageofstress == successful_attempts - unsuccessful_attempts
-             ^
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Interface start took 0.36s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1600)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'ATI Technologies Inc.'"
-Renderer: b'AMD Radeon(TM) Graphics'
-Version: b'4.6.0 Compatibility Profile Context 22.20.44.221025'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2077, 1168) drawable=(2077, 1168)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 60.18s
+Early init took 0.07s
 Loading error handling took 0.03s
-Loading script took 0.68s
-Loading save slot metadata took 0.01s
+Loading script took 0.11s
+Loading save slot metadata took 0.02s
 Loading persistent took 0.00s
-
-File "game/breathing.rpy", line 60: invalid syntax
-                while stageofstress = 3:
-                                     ^
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Interface start took 0.08s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1600)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'ATI Technologies Inc.'"
-Renderer: b'AMD Radeon(TM) Graphics'
-Version: b'4.6.0 Compatibility Profile Context 22.20.44.221025'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2077, 1168) drawable=(2077, 1168)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 80.41s
-Loading error handling took 0.03s
-Loading script took 0.69s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-
-File "game/breathing.rpy", line 80: invalid syntax
-                while stageofstress == -2
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Interface start took 0.08s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1600)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'ATI Technologies Inc.'"
-Renderer: b'AMD Radeon(TM) Graphics'
-Version: b'4.6.0 Compatibility Profile Context 22.20.44.221025'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2077, 1168) drawable=(2077, 1168)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 108.60s
-Loading error handling took 0.03s
-Loading script took 0.70s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-
-File "game/breathing.rpy", line 94: invalid syntax
-            if stress >= 100
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Interface start took 0.08s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1600)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'ATI Technologies Inc.'"
-Renderer: b'AMD Radeon(TM) Graphics'
-Version: b'4.6.0 Compatibility Profile Context 22.20.44.221025'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2077, 1168) drawable=(2077, 1168)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 124.76s
-Loading error handling took 0.03s
-Loading script took 0.70s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.29s
-Loading analysis data took 0.02s
+Running init code took 0.04s
+Loading analysis data took 0.01s
 Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.01s
 Index archives took 0.00s
-Backing up script files to 'C:\\Users\\Mcrea\\AppData\\Roaming/RenPy/backups\\BreathingGamePrototype':
 Dump and make backups took 0.05s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
@@ -122,14 +23,14 @@ Creating interface object took 0.00s
 Cleaning stores took 0.00s
 Init translation took 0.03s
 Build styles took 0.00s
-Load screen analysis took 0.01s
-Analyze screens took 0.01s
-Save screen analysis took 0.02s
-Prepare screens took 0.05s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.06s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
+Save bytecode. took 0.00s
 Running _start took 0.00s
-Interface start took 0.06s
+Interface start took 0.07s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 2560, 1600)
@@ -139,5 +40,12 @@ Vendor: "b'ATI Technologies Inc.'"
 Renderer: b'AMD Radeon(TM) Graphics'
 Version: b'4.6.0 Compatibility Profile Context 22.20.44.221025'
 Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2077, 1168) drawable=(2077, 1168)
+Screen sizes: virtual=(1920, 1080) physical=(2080, 1170) drawable=(2080, 1170)
 Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
