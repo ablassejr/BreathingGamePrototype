@@ -52,7 +52,8 @@ init python:
                         self.reset_timer = st 
                         renpy.redraw(self, 0)
                         raise renpy.IgnoreEvent()
-                if self.xysize[0] == target.xysize[0] and self.xysize[1] == target.xysize[1]:
+                inputWindow = 10 # window of opportunity during which the player can release the spacebar for a successful attempt
+                if abs(self.xysize[0] - target.xysize[0]) < inputWindow and abs(self.xysize[1] - target.xysize[1]) < inputWindow:
                     status += 1
                     successful_attempts += 1
                     
