@@ -87,6 +87,7 @@ init python:
                         if self.total_time > 1.5 and self.total_time < 3: ## change to size
                             status += 1
                             successful_attempts += 1
+                            renpy.show("circle green1")
                             breathe.characterStateChanger()
                             return
                         else:
@@ -99,4 +100,4 @@ init python:
             return None
 
 screen test:
-    add IncreaseCircle("circle blue.svg") at startingPosition
+    add IncreaseCircle("circles/circle blue.svg") at startingPosition

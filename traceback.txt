@@ -1,30 +1,32 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-  File "game/script.rpy", line 26, in script
-    $ breathe.results()
-  File "game/script.rpy", line 26, in <module>
-    $ breathe.results()
-  File "game/breathing.rpy", line 32, in results
-    stress +=stress_amount
-UnboundLocalError: local variable 'stress' referenced before assignment
+  File "renpy/common/00start.rpy", line 193, in script
+    python:
+  File "renpy/common/00start.rpy", line 194, in <module>
+    renpy.execute_default_statement(True)
+  File "game/screens.rpy", line 266, in execute_default
+    default quick_menu = True
+Exception: store.quick_menu is being given a default a second time.
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "game/script.rpy", line 26, in script
-    $ breathe.results()
+  File "renpy/common/00start.rpy", line 193, in script
+    python:
   File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ast.py", line 834, in execute
     renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
   File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\python.py", line 1184, in py_exec_bytecode
     exec(bytecode, globals, locals)
-  File "game/script.rpy", line 26, in <module>
-    $ breathe.results()
-  File "game/breathing.rpy", line 32, in results
-    stress +=stress_amount
-UnboundLocalError: local variable 'stress' referenced before assignment
+  File "renpy/common/00start.rpy", line 194, in <module>
+    renpy.execute_default_statement(True)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\exports\statementexports.py", line 372, in execute_default_statement
+    i.execute_default(start)
+  File "game/screens.rpy", line 266, in execute_default
+    default quick_menu = True
+Exception: store.quick_menu is being given a default a second time.
 
 Windows-10-10.0.26100 AMD64
 Ren'Py 8.3.6.25022803
 BreathingGamePrototype 1.0
-Tue Jul  8 19:57:51 2025
+Thu Jul 10 13:52:54 2025
