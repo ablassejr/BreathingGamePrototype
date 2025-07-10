@@ -2,11 +2,12 @@
 errors listed below, and try again.
 
 
-The label start is defined twice, at File "game/after.rpy", line 11:
-label start:
-and File "game/script.rpy", line 104:
-label start:
+File "game/breathing.rpy", line 46: expected statement.
+    def audioManager():
+                    ^
 
+File "game/breathing.rpy", line 45: unexpected EOF while parsing
+        @staticmethod
 
 Ren'Py Version: Ren'Py 8.3.6.25022803
-Tue Jul  8 12:03:12 2025
+Thu Jul 10 16:13:53 2025
