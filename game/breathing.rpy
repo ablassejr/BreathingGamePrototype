@@ -1,4 +1,5 @@
 init python:
+    breathinggameactive = False
 
     class Breathing:
 
@@ -41,56 +42,31 @@ init python:
         def timerDisplay():
             return
 
+        @staticmethod
         def audioManager():
             global successful_attempts
             global unsuccessful_attempts
-            stageofstress = 0
-            breathingingameactive == True
             global stress
-            
-            
-            while breathingingameactive == True:
+            global breathinggameactive
 
-                stageofstress == successful_attempts - unsuccessful_attempts
-            #zen audio
-                while stageofstress == 3:
-                    return
-
-            #good audio
-                while stageofstress == 2:
-                    return
-
-            # normal audio
-                while stageofstress == 1:
-                    return
-
-            # mixed audio
-                while stageofstress == 0:
-                    return
-
-            # bad audio
-                while stageofstress == -1:
-                    return
-
-            # turmoil audio
-                while stageofstress == -2:
-                    return
-
-            # panicked audio
-                while stageofstress == -3:
-                    return
-
-                if attempts == 3:
-                    breathingingameactive = False
-                    return
-            return
-
-
-            # ending audio
-            if stress >= 100:
-                return
-            else:
+            if not breathinggameactive:
                 return
 
+            stageofstress = successful_attempts - unsuccessful_attempts
+
+            if stageofstress == 3:
+                renpy.music.play("audio/Heartbeat3.wav", channel="sound", loop=True)
+            elif stageofstress == 2:
+                renpy.music.play("audio/Heartbeat2.wav", channel="sound", loop=True)
+            elif stageofstress == 1:
+                renpy.music.play("audio/Heartbeat1.wav", channel="sound", loop=True)
+            elif stageofstress == 0:
+                renpy.music.play("audio/Heartbeat0.wav", channel="sound", loop=True)
+            elif stageofstress == -1:
+                renpy.music.play("audio/Heartbeat-1.wav", channel="sound", loop=True)
+            elif stageofstress == -2:
+                renpy.music.play("audio/Heartbeat-2.wav", channel="sound", loop=True)
+            elif stageofstress <= -3:
+                renpy.music.play("audio/Heartbeat-3.wav", channel="sound", loop=True)
     
-            return
+    

@@ -12,25 +12,31 @@ label start:
     default unsuccessful_attempts = 0
     default stress = 60
     default stress_amount = 50
+
     scene bg gradient
     pause .5
     show breathe bar with moveinright 
     pause 1.0
     hide breathe bar with moveoutleft
 
-
+    $ breathinggameactive = True
+    $ Breathing.audioManager()
     $ breathe = Breathing() # class object to call functions
     $ breathe.characterStateChanger() # shows initial face
+
     show circle red1 at startingPosition
+
     while attempts < 3:
+        $ Breathing.audioManager()
         call screen test
         pause .55
-        hide circle red1 # hides and shows red circle again so it is above face, can be fixed with layers
+        hide circle red1
         show circle red1 at startingPosition
         $ attempts += 1
+
     $ breathe.results()
     $ breathe.ending()
-
+    $ breathinggameactive = False
 
     jump end
 
