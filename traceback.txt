@@ -1,32 +1,30 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-  File "renpy/common/00start.rpy", line 193, in script
-    python:
-  File "renpy/common/00start.rpy", line 194, in <module>
-    renpy.execute_default_statement(True)
-  File "game/screens.rpy", line 266, in execute_default
-    default quick_menu = True
-Exception: store.quick_menu is being given a default a second time.
+  File "game/script.rpy", line 33, in script
+    $ Breathing.audioManager()
+  File "game/script.rpy", line 33, in <module>
+    $ Breathing.audioManager()
+  File "game/breathing.rpy", line 72, in audioManager
+    renpy.invoke_in_thread(audioManager)
+NameError: name 'audioManager' is not defined
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "renpy/common/00start.rpy", line 193, in script
-    python:
-  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ast.py", line 834, in execute
+  File "game/script.rpy", line 33, in script
+    $ Breathing.audioManager()
+  File "C:\Users\Mcrea\Downloads\renpy-8.3.6-sdk\renpy\ast.py", line 834, in execute
     renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
-  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\python.py", line 1184, in py_exec_bytecode
+  File "C:\Users\Mcrea\Downloads\renpy-8.3.6-sdk\renpy\python.py", line 1184, in py_exec_bytecode
     exec(bytecode, globals, locals)
-  File "renpy/common/00start.rpy", line 194, in <module>
-    renpy.execute_default_statement(True)
-  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\exports\statementexports.py", line 372, in execute_default_statement
-    i.execute_default(start)
-  File "game/screens.rpy", line 266, in execute_default
-    default quick_menu = True
-Exception: store.quick_menu is being given a default a second time.
+  File "game/script.rpy", line 33, in <module>
+    $ Breathing.audioManager()
+  File "game/breathing.rpy", line 72, in audioManager
+    renpy.invoke_in_thread(audioManager)
+NameError: name 'audioManager' is not defined
 
 Windows-10-10.0.26100 AMD64
 Ren'Py 8.3.6.25022803
 BreathingGamePrototype 1.0
-Thu Jul 10 13:52:54 2025
+Thu Jul 10 16:10:14 2025
