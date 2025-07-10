@@ -3,10 +3,10 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-default status = 0
-
 label start:
     # temp values
+    default previous_attempts = 0
+    default status = 0
     default attempts = 0
     default successful_attempts = 0
     default unsuccessful_attempts = 0
@@ -27,7 +27,6 @@ label start:
         pause .55
         hide circle red1 # hides and shows red circle again so it is above face, can be fixed with layers
         show circle red1 at startingPosition
-        $ breathe.characterStateChanger()
         $ attempts += 1
     $ breathe.results()
     $ breathe.ending()
@@ -37,49 +36,48 @@ label start:
 
 label calm2:
     show bg calm2
-    show celia calm2
+    show celia calm2 at still
     show scribble calm2
     return
 
 label calm1:
     show bg calm1
-    show celia calm1
+    show celia calm1 at still
     show scribble calm1
     return
 
 label neutral:
     show bg neutral
-    show celia neutral
+    show celia neutral at still
     show scribble neutral
     return
 
 label stress1:
     show bg stress1
-    show celia stress1
+    show celia stress1 at shake(5, 5)
     show scribble stress1
     return
 
 label stress2:
     show bg stress2
-    show celia stress2
+    show celia stress2 at shake(10, 10)
     show scribble stress2
     return
 
 label fail:
-    show celia fail
+    show celia fail at shake(15, 15)
     $ quote = "Bad ending."
     jump end
 
 label success:
-    show celia success
+    show celia success at still
     $ quote = "Good ending."
     jump end
 
 label perfect:
-    show celia perfect
+    show celia perfect at still
     $ quote = "Perfect ending."
     jump end
-
 
 label end:
     hide circle red

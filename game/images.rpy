@@ -1,7 +1,6 @@
 image bg gradient = Movie(size=(1920, 1080), channel="movie_dp", play="images/bg white gradient.webm")
 
 image circle red1 = Image("circles/circle red.svg")
-# image circle blue1 = im.Scale("circles/circle blue.svg", 1920, 1080)
 image circle green1 = Image("circles/circle green.svg")
 
 #bg

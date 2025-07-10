@@ -2,11 +2,9 @@
 errors listed below, and try again.
 
 
-The label start is defined twice, at File "game/after.rpy", line 11:
-label start:
-and File "game/script.rpy", line 104:
-label start:
-
+File "game/animations.rpy", line 12: Line is indented, but the preceding ATL statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
+    xoffset 0
+    ^
 
 Ren'Py Version: Ren'Py 8.3.6.25022803
-Tue Jul  8 12:03:12 2025
+Thu Jul 10 17:36:21 2025
