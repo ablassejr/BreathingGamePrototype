@@ -1,30 +1,37 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-  File "game/script.rpy", line 26, in script
-    $ breathe.results()
-  File "game/script.rpy", line 26, in <module>
-    $ breathe.results()
-  File "game/breathing.rpy", line 32, in results
-    stress +=stress_amount
-UnboundLocalError: local variable 'stress' referenced before assignment
+  File "renpy/common/00keymap.rpy", line 504, in script
+    python hide:
+  File "renpy/common/00keymap.rpy", line 504, in <module>
+    python hide:
+  File "renpy/common/00keymap.rpy", line 531, in _execute_python_hide
+    renpy.save("_reload-1", "reload save game")
+AttributeError: Can't pickle local object 'make_shake.<locals>.<lambda>'
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "game/script.rpy", line 26, in script
-    $ breathe.results()
+  File "renpy/common/00keymap.rpy", line 504, in script
+    python hide:
   File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ast.py", line 834, in execute
     renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
   File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\python.py", line 1184, in py_exec_bytecode
     exec(bytecode, globals, locals)
-  File "game/script.rpy", line 26, in <module>
-    $ breathe.results()
-  File "game/breathing.rpy", line 32, in results
-    stress +=stress_amount
-UnboundLocalError: local variable 'stress' referenced before assignment
+  File "renpy/common/00keymap.rpy", line 504, in <module>
+    python hide:
+  File "renpy/common/00keymap.rpy", line 531, in _execute_python_hide
+    renpy.save("_reload-1", "reload save game")
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\loadsave.py", line 431, in save
+    reraise(t, e, tb)
+  File "lib/python3.9/future/utils/__init__.py", line 444, in raise_
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\loadsave.py", line 417, in save
+    dump((roots, renpy.game.log), logf)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\compat\pickle.py", line 107, in dump
+    pickle.dump(o, f, pickle.HIGHEST_PROTOCOL if highest else PROTOCOL)
+AttributeError: Can't pickle local object 'make_shake.<locals>.<lambda>'
 
 Windows-10-10.0.26100 AMD64
 Ren'Py 8.3.6.25022803
 BreathingGamePrototype 1.0
-Tue Jul  8 19:57:51 2025
+Thu Jul 10 17:48:03 2025

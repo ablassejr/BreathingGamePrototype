@@ -1,35 +1,32 @@
 init python:
+    breathinggameactive = False
 
     class Breathing:
 
         def characterStateChanger(self):
 
             if status >= 2:
-                renpy.call("happy")
+                renpy.call("calm2")
             elif status == 1:
-                renpy.call("smile")
+                renpy.call("calm1")
             elif status == 0:
-                renpy.call("straight")
+                renpy.call("neutral")
             elif status == -1:
-                renpy.call("frown")
+                renpy.call("stress1")
             else:
-                renpy.call("cry")
+                renpy.call("stress2")
             return
 
         def results(self):
             global stress
 
             if successful_attempts >= 3:
-                #scene bg prefect
                 stress += stress_amount*.25
             elif successful_attempts == 2:
-                #scene bg success
                 stress +=stress_amount*.50
             elif successful_attempts == 1:
-                #scene bg success
                 stress +=stress_amount*.75
             else:
-                #scene bg failure
                 stress +=stress_amount
             # Reset Status Counters
             successful_attempts = 0 
@@ -38,14 +35,40 @@ init python:
 
         def ending(self):
             if stress > 100:
-                return "Bad ending"
+                renpy.jump("fail")
             elif status == 3:
-                return "Perfect ending"
+                renpy.jump("perfect")
             else:
-                return "Good ending"
+                renpy.jump("success")
 
         def timerDisplay():
             return
 
+        @staticmethod
         def audioManager():
-            return
+            global successful_attempts
+            global unsuccessful_attempts
+            global stress
+            global breathinggameactive
+
+            if not breathinggameactive:
+                return
+
+            stageofstress = successful_attempts - unsuccessful_attempts
+
+            if stageofstress == 3:
+                renpy.music.play("audio/Heartbeat3.wav", channel="sound", loop=True)
+            elif stageofstress == 2:
+                renpy.music.play("audio/Heartbeat2.wav", channel="sound", loop=True)
+            elif stageofstress == 1:
+                renpy.music.play("audio/Heartbeat1.wav", channel="sound", loop=True)
+            elif stageofstress == 0:
+                renpy.music.play("audio/Heartbeat0.wav", channel="sound", loop=True)
+            elif stageofstress == -1:
+                renpy.music.play("audio/Heartbeat-1.wav", channel="sound", loop=True)
+            elif stageofstress == -2:
+                renpy.music.play("audio/Heartbeat-2.wav", channel="sound", loop=True)
+            elif stageofstress <= -3:
+                renpy.music.play("audio/Heartbeat-3.wav", channel="sound", loop=True)
+    
+    

@@ -1,10 +1,1 @@
-﻿I'm sorry, but errors were detected in your script. Please correct the
-errors listed below, and try again.
-
-
-File "game/input.rpy", line 106: 'onlayer' is not a keyword argument or valid child of the add statement.
-    add IncreaseCircle("circle blue.svg") at position onlayer top
-                                                             ^
-
-Ren'Py Version: Ren'Py 8.3.6.25022803
-Tue Jul  8 19:40:44 2025
+﻿

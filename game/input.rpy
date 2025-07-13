@@ -56,6 +56,7 @@ init python:
                 if abs(self.xysize[0] - target.xysize[0]) < inputWindow and abs(self.xysize[1] - target.xysize[1]) < inputWindow:
                     status += 1
                     successful_attempts += 1
+                            renpy.show("circle green1")
                     
                     if status > 3:
                         status = 3
@@ -70,9 +71,5 @@ init python:
                 return None
             return None
 
-
-
-screen test(difficulty=0.5):
-    add TargetBand ("circle green.svg") at startingPosition as target
-    add IncreaseCircle ("circle red.svg", difficulty, target) at startingPosition 
-    
+screen test:
+    add IncreaseCircle("circle blue.svg") at startingPosition
