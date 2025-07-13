@@ -1,1 +1,10 @@
-﻿
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/input.rpy", line 59: unexpected indent
+                        renpy.show("circle green1")
+                        ^
+
+Ren'Py Version: Ren'Py 8.3.7.25031702
+Sun Jul 13 18:19:25 2025
