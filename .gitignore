@@ -4,3 +4,7 @@ run.json
 game/saves/
 log.txt
 game/cache/
+game/script.rpyc
+game/script.rpyc
+game/breathing.rpyc
+game/input.rpyc
