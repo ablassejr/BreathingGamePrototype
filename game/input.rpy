@@ -9,7 +9,7 @@ init python:
         def __init__(self,image, targetSize, difficulty=0.5):
             super(renpy.Displayable,self).__init__()
             # Image that will be increased
-            self.start_image = image
+            self.start_image = Image(image)
             # Size of the image
             self.xysize = [0, 0]
             # Rate image size will increase
@@ -45,7 +45,7 @@ init python:
 
             # Renders child with the transform
             #   The first 1080 is Width and the second 1080 is height.
-            #   If left to there default values (1920, 1080) the image would be stretched
+            #   If left to their default values (1920, 1080) the image would be stretched
             child_render = renpy.render(t, 1080, height, st, at)
 
             # Gets width and height of child rendering
@@ -117,4 +117,5 @@ init python:
 
 screen test:
     add TargetBand("images/circles/circle green.svg") at startingPosition as target
-    add IncreaseCircle("circles/circle blue.svg", target.xysize, 0.2) at startingPosition
+    $ difficulty = renpy.random.random() % 0.4 + 0.15
+    add IncreaseCircle("circles/circle blue.svg", target.xysize, difficulty) at startingPosition

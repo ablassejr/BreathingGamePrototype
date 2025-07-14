@@ -53,10 +53,10 @@ init python:
             global successful_attempts
             global unsuccessful_attempts
             global stress
-            global breathinggameactive
+            # global breathinggameactive
 
-            if not breathinggameactive:
-                return
+            # if not breathinggameactive:
+            #     return
 
             stageofstress = successful_attempts - unsuccessful_attempts
 
