@@ -29,9 +29,9 @@ init python:
             else:
                 stress +=stress_amount
             # Reset Status Counters
-            successful_attempts = 0 
-            attempts = 0
-            return stress
+            store.successful_attempts = 0
+            store.attempts = 0
+            return store.stress
 
         def ending(self):
             if stress > 100:
