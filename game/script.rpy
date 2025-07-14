@@ -4,7 +4,6 @@
 # name of the character.
 
 label start:
-    # temp values
     default previous_attempts = 0
     default status = 0
     default attempts = 0
@@ -13,30 +12,38 @@ label start:
     default stress = 60
     default stress_amount = 50
 
-    scene bg gradient
-    pause .5
-    show breathe bar with moveinright 
-    pause 1.0
-    hide breathe bar with moveoutleft
+    # Used for debugging size checks
+    # default x1 = 0
+    # default y1 = 0
+    # default x2 = 0
+    # default y2 = 0
 
-    $ breathinggameactive = True
+    scene breathe start with dissolve
+    pause 4.43
+    hide breathe start
+    # hide breathe start
+    # show breathe bar with moveinright 
+    # pause 1.0
+    # hide breathe bar with moveoutleft
+
+    # $ breathinggameactive = True
     $ Breathing.audioManager()
     $ breathe = Breathing() # class object to call functions
     $ breathe.characterStateChanger() # shows initial face
 
-    show circle red1 at startingPosition
+    # show circle red1 at startingPosition
 
     while attempts < 3:
         $ Breathing.audioManager()
         call screen test
-        pause .55
-        hide circle red1
-        show circle red1 at startingPosition
+        # pause .55
+        # hide circle red1
+        # show circle red1 at startingPosition
         $ attempts += 1
 
     $ breathe.results()
     $ breathe.ending()
-    $ breathinggameactive = False
+    # $ breathinggameactive = False
 
     jump end
 
@@ -71,25 +78,31 @@ label stress2:
     return
 
 label fail:
-    show celia fail at shake(15, 15)
-    $ quote = "Bad ending."
+    # show celia fail at shake(15, 15)
+    # $ quote = "Bad ending."
+    scene end failed with dissolve
+    pause 3.0
     jump end
 
 label success:
-    show celia success at still
-    $ quote = "Good ending."
+    # show celia success at still
+    # $ quote = "Good ending."
+    scene end success with dissolve
+    pause 3.0
     jump end
 
 label perfect:
-    show celia perfect at still
-    $ quote = "Perfect ending."
+    # show celia perfect at still
+    # $ quote = "Perfect ending."
+    scene end perfect with dissolve
+    pause 3.0
     jump end
 
 label end:
     hide circle red
     
-    "[quote]"
-    "Stress: [stress]"
+    # "[quote]"
+    # "Stress: [stress]"
 
     return
 
