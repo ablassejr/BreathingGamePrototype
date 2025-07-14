@@ -1,9 +1,8 @@
 ﻿# The script of the game goes in this file.
 
 # Declare characters used by this game. The color argument colorizes the
-# name of the character.
+# name of the character.e
 
-default status = 0
 init image backgroundCircle = "circle blue.svg" # Background circle image
 label start:
     # temp values
@@ -15,13 +14,6 @@ label start:
     default stress = 60
     default stress_amount = 50
 
-    $ breathe = Breathing() # class object to clal functions
-    $ breathe.characterStateChanger() # shows inital face
-    show backgroundCircle at startingPosition
-    while attempts < 3:
-        call screen test()
-        hide backgroundCircle # hides and shows red circle again so it is above face, can be fixed with layers
-        show backgroundCircle at startingPosition # maybe should be solid and use a green band(hollow circle) to represent success window
     scene bg gradient
     pause .5
     show breathe bar with moveinright 

@@ -3,7 +3,7 @@ init python:
 
     class IncreaseCircle(renpy.Displayable):
         delayTime = 0.5  # Reset delay time in seconds        
-        def __init__(self, image, difficulty=0.5, target = renpy.Displayable):
+        def __init__(self, image, targetSize, difficulty=0.5):
             super(IncreaseCircle, self).__init__()
             self.start_image = Image(image)  # Convert string to Image displayable
             self.xysize = [0, 0]
@@ -11,7 +11,7 @@ init python:
             self.last_st = 0.0
             self.difficulty = difficulty
             self.reset_timer = 0.0  # Marker for reset delay
-            
+            self.targetSize = targetSize  # Target size for the circle            
         def render(self, width, height, st, at):
             if self.reset_timer > 0:
                 if st - self.reset_timer >= self.delayTime:  # Target reset delay
@@ -52,24 +52,28 @@ init python:
                         self.reset_timer = st 
                         renpy.redraw(self, 0)
                         raise renpy.IgnoreEvent()
-                inputWindow = 10 # window of opportunity during which the player can release the spacebar for a successful attempt
-                if abs(self.xysize[0] - target.xysize[0]) < inputWindow and abs(self.xysize[1] - target.xysize[1]) < inputWindow:
-                    status += 1
-                    successful_attempts += 1
-                            renpy.show("circle green1")
                     
-                    if status > 3:
-                        status = 3
-                else:
-                    status -= 1
-                    if status < -1:
-                        status = -1
-                Breathing.characterStateChanger()
-                attempts += 1
-                if attempts >= 3:
-                    Breathing.results()
-                return None
+                    inputWindow = 10
+                    if abs(self.xysize[0] - self.targetSize[0]) < inputWindow and abs(self.xysize[1] - self.targetSize[1]) < inputWindow:
+                        global status
+                        global successful_attempts
+                        global attempts
+                        status += 1
+                        successful_attempts += 1
+                        if store.status > 3:
+                            store.status = 3
+                    else:
+                        store.status -= 1
+                        if store.status < -1:
+                            store.status = -1
+                    
+                    Breathing.characterStateChanger()
+                    store.attempts += 1
+                    if store.attempts >= 3:
+                        Breathing.results()
+
             return None
 
 screen test:
-    add IncreaseCircle("circle blue.svg") at startingPosition
+    add TargetBand("circles/circle green.svg") at startingPosition as target
+    add IncreaseCircle("circles/circle blue.svg", target.xysize, 0.5) at startingPosition
