@@ -1,4 +1,8 @@
-image bg gradient = Movie(size=(1920, 1080), channel="movie_dp", play="images/bg white gradient.webm")
+# videos
+image breathe start = Movie(size=(1920, 1080), channel="movie_dp", play="images/videos/breathe_start.webm", zoom=1.5)
+image end failed = Movie(size=(1920, 1080), channel="movie_dp", play="images/videos/end_failed.webm")
+image end success = Movie(size=(1920, 1080), channel="movie_dp", play="images/videos/end_success.webm")
+image end perfect = Movie(size=(1920, 1080), channel="movie_dp", play="images/videos/end_perfect.webm")
 
 image circle red1 = Image("circles/circle red.svg")
 image circle green1 = Image("circles/circle green.svg")
