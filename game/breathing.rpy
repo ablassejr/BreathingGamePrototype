@@ -19,6 +19,8 @@ init python:
 
         def results(self):
             global stress
+            global successful_attempts
+            global attempts
 
             if successful_attempts >= 3:
                 stress += stress_amount*.25
@@ -28,10 +30,14 @@ init python:
                 stress +=stress_amount*.75
             else:
                 stress +=stress_amount
+
+            successful_attempts = 0
+            attempts = 0
             
             return stress
 
         def ending(self):
+            renpy.music.stop(channel="sound", fadeout=3.0)
             if stress > 100:
                 renpy.jump("fail")
             elif status == 3:

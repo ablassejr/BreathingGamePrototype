@@ -1,37 +1,70 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-  File "renpy/common/00keymap.rpy", line 504, in script
-    python hide:
-  File "renpy/common/00keymap.rpy", line 504, in <module>
-    python hide:
-  File "renpy/common/00keymap.rpy", line 531, in _execute_python_hide
-    renpy.save("_reload-1", "reload save game")
-AttributeError: Can't pickle local object 'make_shake.<locals>.<lambda>'
+  File "game/script.rpy", line 35, in script
+    call screen test
+  File "renpy/common/000statements.rpy", line 671, in execute_call_screen
+    store._return = renpy.call_screen(name, *args, **kwargs)
+  File "game/input.rpy", line 118, in execute
+    screen test:
+  File "game/input.rpy", line 118, in execute
+    screen test:
+  File "game/input.rpy", line 119, in execute
+    add TargetBand("images/circles/circle green.svg") at startingPosition as target
+  File "game/input.rpy", line 119, in <module>
+    add TargetBand("images/circles/circle green.svg") at startingPosition as target
+  File "game/TargetBand.rpy", line 7, in __init__
+    self.xysize = [l5, .5]  # Default size for the target band
+NameError: name 'l5' is not defined
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "renpy/common/00keymap.rpy", line 504, in script
-    python hide:
-  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ast.py", line 834, in execute
-    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
-  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\python.py", line 1184, in py_exec_bytecode
-    exec(bytecode, globals, locals)
-  File "renpy/common/00keymap.rpy", line 504, in <module>
-    python hide:
-  File "renpy/common/00keymap.rpy", line 531, in _execute_python_hide
-    renpy.save("_reload-1", "reload save game")
-  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\loadsave.py", line 431, in save
-    reraise(t, e, tb)
-  File "lib/python3.9/future/utils/__init__.py", line 444, in raise_
-  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\loadsave.py", line 417, in save
-    dump((roots, renpy.game.log), logf)
-  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\compat\pickle.py", line 107, in dump
-    pickle.dump(o, f, pickle.HIGHEST_PROTOCOL if highest else PROTOCOL)
-AttributeError: Can't pickle local object 'make_shake.<locals>.<lambda>'
+  File "game/script.rpy", line 35, in script
+    call screen test
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ast.py", line 1987, in execute
+    self.call("execute")
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ast.py", line 1966, in call
+    return renpy.statements.call(method, parsed, *args, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\statements.py", line 374, in call
+    return method(parsed, *args, **kwargs)
+  File "renpy/common/000statements.rpy", line 671, in execute_call_screen
+    store._return = renpy.call_screen(name, *args, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\exports\statementexports.py", line 345, in call_screen
+    rv = renpy.ui.interact(mouse="screen", type="screen", roll_forward=roll_forward)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ui.py", line 301, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\core.py", line 2218, in interact
+    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, pause_modal=pause_modal, **kwargs) # type: ignore
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\core.py", line 2748, in interact_core
+    root_widget.visit_all(lambda d : d.per_interact())
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\displayable.py", line 434, in visit_all
+    d.visit_all(callback, seen)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\displayable.py", line 434, in visit_all
+    d.visit_all(callback, seen)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\displayable.py", line 434, in visit_all
+    d.visit_all(callback, seen)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\screen.py", line 480, in visit_all
+    callback(self)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\core.py", line 2748, in <lambda>
+    root_widget.visit_all(lambda d : d.per_interact())
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\screen.py", line 491, in per_interact
+    self.update()
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\screen.py", line 700, in update
+    self.screen.function(**self.scope)
+  File "game/input.rpy", line 118, in execute
+    screen test:
+  File "game/input.rpy", line 118, in execute
+    screen test:
+  File "game/input.rpy", line 119, in execute
+    add TargetBand("images/circles/circle green.svg") at startingPosition as target
+  File "game/input.rpy", line 119, in <module>
+    add TargetBand("images/circles/circle green.svg") at startingPosition as target
+  File "game/TargetBand.rpy", line 7, in __init__
+    self.xysize = [l5, .5]  # Default size for the target band
+NameError: name 'l5' is not defined
 
 Windows-10-10.0.26100 AMD64
 Ren'Py 8.3.6.25022803
 BreathingGamePrototype 1.0
-Thu Jul 10 17:48:03 2025
+Mon Jul 14 16:26:41 2025

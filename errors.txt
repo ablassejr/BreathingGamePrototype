@@ -1,1 +1,10 @@
-﻿
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/input.rpy", line 95: name 'y' is parameter and global
+                        global y
+                         ^
+
+Ren'Py Version: Ren'Py 8.3.6.25022803
+Mon Jul 14 16:22:23 2025

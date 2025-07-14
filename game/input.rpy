@@ -6,7 +6,7 @@ init python:
 
     # Class for the increasing circle
     class IncreaseCircle(renpy.Displayable):
-        def __init__(self,image):
+        def __init__(self,image, targetSize, difficulty=0.5):
             super(renpy.Displayable,self).__init__()
             # Image that will be increased
             self.start_image = image
@@ -18,6 +18,10 @@ init python:
             self.start_st = None
             # Total time the space bar is being held
             self.total_time = 0.0
+
+            self.reset_timer = 0.0
+            self.difficulty = difficulty
+            self.targetSize = targetSize  # Target size to compare against
 
         # Renders the image onto the screen
         def render(self,width,height,st,at):
@@ -32,8 +36,9 @@ init python:
 
             # Use total_time to determine the image size. Using time instead of difference
             #   in states like the previous iterations allows the circle to expand linearly.
-            self.xysize[0] = self.rate * total_time
-            self.xysize[1] = self.rate * total_time
+            if self.reset_timer == 0.0:
+                self.xysize[0] = self.rate * total_time
+                self.xysize[1] = self.rate * total_time
 
             # Transforms the image into new size
             t = Transform(self.start_image, xanchor=0.5, yanchor=0.5, xysize=self.xysize)
@@ -62,7 +67,7 @@ init python:
         def event(self, ev, x, y, st):
 
             # How fast size increases.
-            RATE = .2
+            RATE = self.difficulty
 
             # If spacebar is pressed down, will start to increase image
             if ev.type == pygame.KEYDOWN:
@@ -83,11 +88,22 @@ init python:
                         global attempts
                         global successful_attempts
                         breathe = Breathing()
+                        inputWindow = .03
 
-                        if self.total_time > 1.5 and self.total_time < 3: ## change to size
+                        # Used for debugging size checks
+                        # global x1
+                        # global y1
+                        # global x2
+                        # global y2
+                        # x1 = self.xysize[0]
+                        # y1 = self.xysize[1]
+                        # x2 = self.targetSize[0]
+                        # y2 = self.targetSize[1]
+
+                        if abs(self.xysize[0] - self.targetSize[0]) < inputWindow and abs(self.xysize[1] - self.targetSize[1]) < inputWindow: ## change to size
                             status += 1
                             successful_attempts += 1
-                            renpy.show("circle green1")
+                            # renpy.show("circle green1")
                             breathe.characterStateChanger()
                             return
                         else:
@@ -100,4 +116,5 @@ init python:
             return None
 
 screen test:
-    add IncreaseCircle("circles/circle blue.svg") at startingPosition
+    add TargetBand("images/circles/circle green.svg") at startingPosition as target
+    add IncreaseCircle("circles/circle blue.svg", target.xysize, 0.2) at startingPosition

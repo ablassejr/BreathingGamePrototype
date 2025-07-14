@@ -4,7 +4,6 @@
 # name of the character.
 
 label start:
-    # temp values
     default previous_attempts = 0
     default status = 0
     default attempts = 0
@@ -13,11 +12,17 @@ label start:
     default stress = 60
     default stress_amount = 50
 
-    scene bg gradient
-    pause .5
-    show breathe bar with moveinright 
-    pause 1.0
-    hide breathe bar with moveoutleft
+    # Used for debugging size checks
+    # default x1 = 0
+    # default y1 = 0
+    # default x2 = 0
+    # default y2 = 0
+
+    scene breathe start
+    pause 5.0
+    # show breathe bar with moveinright 
+    # pause 1.0
+    # hide breathe bar with moveoutleft
 
     $ breathinggameactive = True
     $ Breathing.audioManager()
@@ -29,7 +34,7 @@ label start:
     while attempts < 3:
         $ Breathing.audioManager()
         call screen test
-        pause .55
+        # pause .55
         hide circle red1
         show circle red1 at startingPosition
         $ attempts += 1
@@ -71,25 +76,31 @@ label stress2:
     return
 
 label fail:
-    show celia fail at shake(15, 15)
-    $ quote = "Bad ending."
+    # show celia fail at shake(15, 15)
+    # $ quote = "Bad ending."
+    scene end failed
+    pause 3.0
     jump end
 
 label success:
-    show celia success at still
-    $ quote = "Good ending."
+    # show celia success at still
+    # $ quote = "Good ending."
+    scene end success
+    pause 3.0
     jump end
 
 label perfect:
-    show celia perfect at still
-    $ quote = "Perfect ending."
+    # show celia perfect at still
+    # $ quote = "Perfect ending."
+    scene end perfect
+    pause 3.0
     jump end
 
 label end:
     hide circle red
     
-    "[quote]"
-    "Stress: [stress]"
+    # "[quote]"
+    # "Stress: [stress]"
 
     return
 

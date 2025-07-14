@@ -1,13 +1,110 @@
-2025-07-14 06:40:49 UTC
+2025-07-14 07:03:15 UTC
 Windows-10-10.0.26100
 Ren'Py 8.3.6.25022803
 
-Early init took 0.04s
-Loading error handling took 0.02s
-Loading script took 0.16s
+Early init took 0.03s
+Loading error handling took 0.03s
+Loading script took 0.13s
 Loading save slot metadata took 0.02s
 Loading persistent took 0.00s
-Running init code took 0.04s
+Running init code took 0.05s
+Loading analysis data took 0.00s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.21s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.40s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 25.32s
+Loading error handling took 0.02s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.18s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.36s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 39.20s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
 Loading analysis data took 0.01s
 Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.01s
@@ -16,7 +113,1021 @@ Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\Br
 Dump and make backups took 0.03s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc took 0.02s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.19s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.34s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 40.89s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.19s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.35s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+TargetBand.rpy
+TargetBand.rpyc
+after.rpy
+after.rpyc
+animations.rpy
+animations.rpyc
+breathing.rpy
+breathing.rpyc
+gui.rpy
+gui.rpyc
+images.rpy
+images.rpyc
+input.rpy
+input.rpyc
+options.rpy
+options.rpyc
+screens.rpy
+screens.rpyc
+script.rpy
+script.rpyc
+.vscode\settings.json
+audio\Breathing.wav
+audio\Heartbeat-1.wav
+audio\Heartbeat-2.wav
+audio\Heartbeat-3.wav
+audio\Heartbeat0.wav
+audio\Heartbeat1.wav
+audio\Heartbeat2.wav
+audio\Heartbeat3.wav
+audio\shakyBreaths.wav
+cache\bytecode-39.rpyb
+cache\py3analysis.rpyb
+cache\screens.rpyb
+cache\shaders.txt
+gui\bubble.png
+gui\frame.png
+gui\game_menu.png
+gui\main_menu.png
+gui\namebox.png
+gui\notify.png
+gui\nvl.png
+gui\skip.png
+gui\textbox.png
+gui\thoughtbubble.png
+gui\window_icon.png
+gui\bar\bottom.png
+gui\bar\left.png
+gui\bar\right.png
+gui\bar\top.png
+gui\button\check_foreground.png
+gui\button\check_selected_foreground.png
+gui\button\choice_hover_background.png
+gui\button\choice_idle_background.png
+gui\button\hover_background.png
+gui\button\idle_background.png
+gui\button\quick_hover_background.png
+gui\button\quick_idle_background.png
+gui\button\radio_foreground.png
+gui\button\radio_selected_foreground.png
+gui\button\slot_hover_background.png
+gui\button\slot_idle_background.png
+gui\overlay\confirm.png
+gui\overlay\game_menu.png
+gui\overlay\main_menu.png
+gui\phone\nvl.png
+gui\phone\textbox.png
+gui\phone\bar\bottom.png
+gui\phone\bar\left.png
+gui\phone\bar\right.png
+gui\phone\bar\top.png
+gui\phone\button\check_foreground.png
+gui\phone\button\check_selected_foreground.png
+gui\phone\button\choice_hover_background.png
+gui\phone\button\choice_idle_background.png
+gui\phone\button\hover_background.png
+gui\phone\button\idle_background.png
+gui\phone\button\radio_foreground.png
+gui\phone\button\radio_selected_foreground.png
+gui\phone\button\slot_hover_background.png
+gui\phone\button\slot_idle_background.png
+gui\phone\overlay\game_menu.png
+gui\phone\overlay\main_menu.png
+gui\phone\scrollbar\horizontal_hover_bar.png
+gui\phone\scrollbar\horizontal_hover_thumb.png
+gui\phone\scrollbar\horizontal_idle_bar.png
+gui\phone\scrollbar\horizontal_idle_thumb.png
+gui\phone\scrollbar\vertical_hover_bar.png
+gui\phone\scrollbar\vertical_hover_thumb.png
+gui\phone\scrollbar\vertical_idle_bar.png
+gui\phone\scrollbar\vertical_idle_thumb.png
+gui\phone\slider\horizontal_hover_bar.png
+gui\phone\slider\horizontal_hover_thumb.png
+gui\phone\slider\horizontal_idle_bar.png
+gui\phone\slider\horizontal_idle_thumb.png
+gui\phone\slider\vertical_hover_bar.png
+gui\phone\slider\vertical_hover_thumb.png
+gui\phone\slider\vertical_idle_bar.png
+gui\phone\slider\vertical_idle_thumb.png
+gui\scrollbar\horizontal_hover_bar.png
+gui\scrollbar\horizontal_hover_thumb.png
+gui\scrollbar\horizontal_idle_bar.png
+gui\scrollbar\horizontal_idle_thumb.png
+gui\scrollbar\vertical_hover_bar.png
+gui\scrollbar\vertical_hover_thumb.png
+gui\scrollbar\vertical_idle_bar.png
+gui\scrollbar\vertical_idle_thumb.png
+gui\slider\horizontal_hover_bar.png
+gui\slider\horizontal_hover_thumb.png
+gui\slider\horizontal_idle_bar.png
+gui\slider\horizontal_idle_thumb.png
+gui\slider\vertical_hover_bar.png
+gui\slider\vertical_hover_thumb.png
+gui\slider\vertical_idle_bar.png
+gui\slider\vertical_idle_thumb.png
+images\bar.PNG
+images\bg\bg calm 1.png
+images\bg\bg calm 2.png
+images\bg\bg default.png
+images\bg\bg fail.png
+images\bg\bg stress 1.png
+images\bg\bg stress 2.png
+images\character\sprite calm 1.png
+images\character\sprite calm 2.png
+images\character\sprite default.png
+images\character\sprite fail.png
+images\character\sprite perfect 2.png
+images\character\sprite stress 1.png
+images\character\sprite stress 2.png
+images\character\sprite success.png
+images\circles\circle blue.svg
+images\circles\circle green.svg
+images\circles\circle red.svg
+images\scribbles\scribbles calm 1.png
+images\scribbles\scribbles calm 2.png
+images\scribbles\scribbles default.png
+images\scribbles\scribbles stress 1.png
+images\scribbles\scribbles stress 2.png
+images\videos\breathe_start.webm
+images\videos\end_failed.webm
+images\videos\end_perfect.webm
+images\videos\end_success.webm
+saves\_reload-2-LT1.save
+saves\auto-1-LT1.save
+saves\auto-10-LT1.save
+saves\auto-2-LT1.save
+saves\auto-3-LT1.save
+saves\auto-4-LT1.save
+saves\auto-5-LT1.save
+saves\auto-6-LT1.save
+saves\auto-7-LT1.save
+saves\auto-8-LT1.save
+saves\auto-9-LT1.save
+saves\navigation.json
+saves\persistent
+tl\None\common.rpym
+tl\None\common.rpymc
+TargetBand.rpy
+TargetBand.rpyc
+after.rpy
+after.rpyc
+animations.rpy
+animations.rpyc
+breathing.rpy
+breathing.rpyc
+gui.rpy
+gui.rpyc
+images.rpy
+images.rpyc
+input.rpy
+input.rpyc
+options.rpy
+options.rpyc
+screens.rpy
+screens.rpyc
+script.rpy
+script.rpyc
+.vscode\settings.json
+audio\Breathing.wav
+audio\Heartbeat-1.wav
+audio\Heartbeat-2.wav
+audio\Heartbeat-3.wav
+audio\Heartbeat0.wav
+audio\Heartbeat1.wav
+audio\Heartbeat2.wav
+audio\Heartbeat3.wav
+audio\shakyBreaths.wav
+cache\bytecode-39.rpyb
+cache\py3analysis.rpyb
+cache\screens.rpyb
+cache\shaders.txt
+gui\bubble.png
+gui\frame.png
+gui\game_menu.png
+gui\main_menu.png
+gui\namebox.png
+gui\notify.png
+gui\nvl.png
+gui\skip.png
+gui\textbox.png
+gui\thoughtbubble.png
+gui\window_icon.png
+gui\bar\bottom.png
+gui\bar\left.png
+gui\bar\right.png
+gui\bar\top.png
+gui\button\check_foreground.png
+gui\button\check_selected_foreground.png
+gui\button\choice_hover_background.png
+gui\button\choice_idle_background.png
+gui\button\hover_background.png
+gui\button\idle_background.png
+gui\button\quick_hover_background.png
+gui\button\quick_idle_background.png
+gui\button\radio_foreground.png
+gui\button\radio_selected_foreground.png
+gui\button\slot_hover_background.png
+gui\button\slot_idle_background.png
+gui\overlay\confirm.png
+gui\overlay\game_menu.png
+gui\overlay\main_menu.png
+gui\phone\nvl.png
+gui\phone\textbox.png
+gui\phone\bar\bottom.png
+gui\phone\bar\left.png
+gui\phone\bar\right.png
+gui\phone\bar\top.png
+gui\phone\button\check_foreground.png
+gui\phone\button\check_selected_foreground.png
+gui\phone\button\choice_hover_background.png
+gui\phone\button\choice_idle_background.png
+gui\phone\button\hover_background.png
+gui\phone\button\idle_background.png
+gui\phone\button\radio_foreground.png
+gui\phone\button\radio_selected_foreground.png
+gui\phone\button\slot_hover_background.png
+gui\phone\button\slot_idle_background.png
+gui\phone\overlay\game_menu.png
+gui\phone\overlay\main_menu.png
+gui\phone\scrollbar\horizontal_hover_bar.png
+gui\phone\scrollbar\horizontal_hover_thumb.png
+gui\phone\scrollbar\horizontal_idle_bar.png
+gui\phone\scrollbar\horizontal_idle_thumb.png
+gui\phone\scrollbar\vertical_hover_bar.png
+gui\phone\scrollbar\vertical_hover_thumb.png
+gui\phone\scrollbar\vertical_idle_bar.png
+gui\phone\scrollbar\vertical_idle_thumb.png
+gui\phone\slider\horizontal_hover_bar.png
+gui\phone\slider\horizontal_hover_thumb.png
+gui\phone\slider\horizontal_idle_bar.png
+gui\phone\slider\horizontal_idle_thumb.png
+gui\phone\slider\vertical_hover_bar.png
+gui\phone\slider\vertical_hover_thumb.png
+gui\phone\slider\vertical_idle_bar.png
+gui\phone\slider\vertical_idle_thumb.png
+gui\scrollbar\horizontal_hover_bar.png
+gui\scrollbar\horizontal_hover_thumb.png
+gui\scrollbar\horizontal_idle_bar.png
+gui\scrollbar\horizontal_idle_thumb.png
+gui\scrollbar\vertical_hover_bar.png
+gui\scrollbar\vertical_hover_thumb.png
+gui\scrollbar\vertical_idle_bar.png
+gui\scrollbar\vertical_idle_thumb.png
+gui\slider\horizontal_hover_bar.png
+gui\slider\horizontal_hover_thumb.png
+gui\slider\horizontal_idle_bar.png
+gui\slider\horizontal_idle_thumb.png
+gui\slider\vertical_hover_bar.png
+gui\slider\vertical_hover_thumb.png
+gui\slider\vertical_idle_bar.png
+gui\slider\vertical_idle_thumb.png
+images\bar.PNG
+images\bg\bg calm 1.png
+images\bg\bg calm 2.png
+images\bg\bg default.png
+images\bg\bg fail.png
+images\bg\bg stress 1.png
+images\bg\bg stress 2.png
+images\character\sprite calm 1.png
+images\character\sprite calm 2.png
+images\character\sprite default.png
+images\character\sprite fail.png
+images\character\sprite perfect 2.png
+images\character\sprite stress 1.png
+images\character\sprite stress 2.png
+images\character\sprite success.png
+images\circles\circle blue.svg
+images\circles\circle green.svg
+images\circles\circle red.svg
+images\scribbles\scribbles calm 1.png
+images\scribbles\scribbles calm 2.png
+images\scribbles\scribbles default.png
+images\scribbles\scribbles stress 1.png
+images\scribbles\scribbles stress 2.png
+images\videos\breathe_start.webm
+images\videos\end_failed.webm
+images\videos\end_perfect.webm
+images\videos\end_success.webm
+saves\_reload-2-LT1.save
+saves\auto-1-LT1.save
+saves\auto-10-LT1.save
+saves\auto-2-LT1.save
+saves\auto-3-LT1.save
+saves\auto-4-LT1.save
+saves\auto-5-LT1.save
+saves\auto-6-LT1.save
+saves\auto-7-LT1.save
+saves\auto-8-LT1.save
+saves\auto-9-LT1.save
+saves\navigation.json
+saves\persistent
+tl\None\common.rpym
+tl\None\common.rpymc
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 299.90s
+Loading error handling took 0.02s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.20s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.39s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 301.60s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.20s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.38s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 336.54s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.18s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.37s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 404.81s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.20s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.38s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 408.13s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.21s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.36s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 30, in script
+    call screen test
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ast.py", line 1987, in execute
+    self.call("execute")
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ast.py", line 1966, in call
+    return renpy.statements.call(method, parsed, *args, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\statements.py", line 374, in call
+    return method(parsed, *args, **kwargs)
+  File "renpy/common/000statements.rpy", line 671, in execute_call_screen
+    store._return = renpy.call_screen(name, *args, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\exports\statementexports.py", line 345, in call_screen
+    rv = renpy.ui.interact(mouse="screen", type="screen", roll_forward=roll_forward)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ui.py", line 301, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\core.py", line 2218, in interact
+    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, pause_modal=pause_modal, **kwargs) # type: ignore
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\core.py", line 2748, in interact_core
+    root_widget.visit_all(lambda d : d.per_interact())
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\displayable.py", line 434, in visit_all
+    d.visit_all(callback, seen)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\displayable.py", line 434, in visit_all
+    d.visit_all(callback, seen)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\displayable.py", line 434, in visit_all
+    d.visit_all(callback, seen)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\screen.py", line 480, in visit_all
+    callback(self)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\core.py", line 2748, in <lambda>
+    root_widget.visit_all(lambda d : d.per_interact())
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\screen.py", line 491, in per_interact
+    self.update()
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\screen.py", line 700, in update
+    self.screen.function(**self.scope)
+  File "game/input.rpy", line 106, in execute
+    screen test:
+  File "game/input.rpy", line 106, in execute
+    screen test:
+  File "game/input.rpy", line 107, in execute
+    add IncreaseCircle("circles/circle blue.svg") at startingPosition
+  File "game/input.rpy", line 107, in <module>
+    add IncreaseCircle("circles/circle blue.svg") at startingPosition
+TypeError: __init__() missing 1 required positional argument: 'targetSize'
+
+While running game code:
+  File "game/script.rpy", line 30, in script
+    call screen test
+  File "renpy/common/000statements.rpy", line 671, in execute_call_screen
+    store._return = renpy.call_screen(name, *args, **kwargs)
+  File "game/input.rpy", line 106, in execute
+    screen test:
+  File "game/input.rpy", line 106, in execute
+    screen test:
+  File "game/input.rpy", line 107, in execute
+    add IncreaseCircle("circles/circle blue.svg") at startingPosition
+  File "game/input.rpy", line 107, in <module>
+    add IncreaseCircle("circles/circle blue.svg") at startingPosition
+TypeError: __init__() missing 1 required positional argument: 'targetSize'
+Resetting cache.
+Early init took 447.67s
+Loading error handling took 0.01s
+Loading script took 0.10s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.22s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.36s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 449.43s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Dump and make backups took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.21s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.37s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 456.48s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.18s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.36s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 497.50s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.19s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.37s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 499.17s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.21s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.37s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 541.71s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.17s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.37s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 561.57s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.20s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.38s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 620.77s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
 DPI scale factor: 1.250000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: Disabled thread optimizations.
@@ -27,11 +1138,2585 @@ Build styles took 0.00s
 Load screen analysis took 0.00s
 Analyze screens took 0.01s
 Save screen analysis took 0.01s
-Prepare screens took 0.03s
+Prepare screens took 0.04s
 Save pyanalysis. took 0.01s
-Save bytecode. took 0.02s
+Save bytecode. took 0.01s
 Running _start took 0.00s
-Interface start took 0.72s
+Interface start took 0.37s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 643.61s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.19s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.36s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 646.78s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.19s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.37s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 648.49s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.18s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.36s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 672.59s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.18s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.36s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 680.36s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.23s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.39s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 695.73s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.20s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.37s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 709.57s
+Loading error handling took 0.01s
+Loading script took 0.09s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.20s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.40s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 711.29s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.18s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.37s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 728.16s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.19s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.37s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 729.85s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Dump and make backups took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.19s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.36s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 767.36s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.19s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.38s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 776.61s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.20s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.36s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 778.30s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Dump and make backups took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.07s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.19s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.38s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 30, in script
+    call screen test
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ast.py", line 1987, in execute
+    self.call("execute")
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ast.py", line 1966, in call
+    return renpy.statements.call(method, parsed, *args, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\statements.py", line 374, in call
+    return method(parsed, *args, **kwargs)
+  File "renpy/common/000statements.rpy", line 671, in execute_call_screen
+    store._return = renpy.call_screen(name, *args, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\exports\statementexports.py", line 331, in call_screen
+    renpy.exports.show_screen(_screen_name, *args, _transient=True, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\screen.py", line 1328, in show_screen
+    raise Exception("Screen %s is not known.\n" % (name[0],))
+Exception: Screen test is not known.
+
+
+While running game code:
+  File "game/script.rpy", line 30, in script
+    call screen test
+  File "renpy/common/000statements.rpy", line 671, in execute_call_screen
+    store._return = renpy.call_screen(name, *args, **kwargs)
+Exception: Screen test is not known.
+
+Resetting cache.
+Early init took 789.11s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/input.rpy", line 90: invalid syntax
+                        breathe = Breathing()R
+                                              ^
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Interface start took 0.59s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 795.31s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.03s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.19s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.35s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 813.66s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.23s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.37s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 913.67s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.18s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.36s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 30, in script
+    call screen test
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ast.py", line 1987, in execute
+    self.call("execute")
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ast.py", line 1966, in call
+    return renpy.statements.call(method, parsed, *args, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\statements.py", line 374, in call
+    return method(parsed, *args, **kwargs)
+  File "renpy/common/000statements.rpy", line 671, in execute_call_screen
+    store._return = renpy.call_screen(name, *args, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\exports\statementexports.py", line 345, in call_screen
+    rv = renpy.ui.interact(mouse="screen", type="screen", roll_forward=roll_forward)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ui.py", line 301, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\core.py", line 2218, in interact
+    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, pause_modal=pause_modal, **kwargs) # type: ignore
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\core.py", line 3289, in interact_core
+    rv = root_widget.event(ev, x, y, 0)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\layout.py", line 1297, in event
+    rv = i.event(ev, x - xo, y - yo, cst)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\layout.py", line 1297, in event
+    rv = i.event(ev, x - xo, y - yo, cst)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\layout.py", line 1297, in event
+    rv = i.event(ev, x - xo, y - yo, cst)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\screen.py", line 794, in event
+    rv = self.child.event(ev, x, y, st)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\layout.py", line 1297, in event
+    rv = i.event(ev, x - xo, y - yo, cst)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\transform.py", line 1083, in event
+    rv = d.event(ev, cx, cy, st)
+  File "game/input.rpy", line 92, in event
+    renpy.say(None, "[self.xysize[0]]")
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\exports\sayexports.py", line 132, in say
+    who(what, *args, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\character.py", line 1455, in __call__
+    what = self.prefix_suffix("what", self.what_prefix, what, self.what_suffix)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\character.py", line 1369, in prefix_suffix
+    return (sub(prefix) + sub(body) + sub(suffix))
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\character.py", line 1349, in sub
+    return renpy.substitutions.substitute(s, scope=scope, force=force, translate=translate)[0]
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\substitutions.py", line 373, in substitute
+    s = interpolate(s, variables) # type: ignore
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\substitutions.py", line 86, in interpolate
+    raise e
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\substitutions.py", line 78, in interpolate
+    value = renpy.python.py_eval(code, {}, scope)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\python.py", line 1215, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\python.py", line 1208, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "<none>", line 1, in <module>
+NameError: name 'self' is not defined
+
+While running game code:
+  File "game/script.rpy", line 30, in script
+    call screen test
+  File "renpy/common/000statements.rpy", line 671, in execute_call_screen
+    store._return = renpy.call_screen(name, *args, **kwargs)
+  File "game/input.rpy", line 92, in event
+    renpy.say(None, "[self.xysize[0]]")
+NameError: name 'self' is not defined
+Resetting cache.
+Early init took 951.69s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.19s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.35s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 956.44s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.20s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.36s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 958.17s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.19s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.37s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 30, in script
+    call screen test
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ast.py", line 1987, in execute
+    self.call("execute")
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ast.py", line 1966, in call
+    return renpy.statements.call(method, parsed, *args, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\statements.py", line 374, in call
+    return method(parsed, *args, **kwargs)
+  File "renpy/common/000statements.rpy", line 671, in execute_call_screen
+    store._return = renpy.call_screen(name, *args, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\exports\statementexports.py", line 345, in call_screen
+    rv = renpy.ui.interact(mouse="screen", type="screen", roll_forward=roll_forward)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ui.py", line 301, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\core.py", line 2218, in interact
+    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, pause_modal=pause_modal, **kwargs) # type: ignore
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\core.py", line 3289, in interact_core
+    rv = root_widget.event(ev, x, y, 0)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\layout.py", line 1297, in event
+    rv = i.event(ev, x - xo, y - yo, cst)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\layout.py", line 1297, in event
+    rv = i.event(ev, x - xo, y - yo, cst)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\layout.py", line 1297, in event
+    rv = i.event(ev, x - xo, y - yo, cst)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\screen.py", line 794, in event
+    rv = self.child.event(ev, x, y, st)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\layout.py", line 1297, in event
+    rv = i.event(ev, x - xo, y - yo, cst)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\transform.py", line 1083, in event
+    rv = d.event(ev, cx, cy, st)
+  File "game/input.rpy", line 92, in event
+    x = self.xsize
+AttributeError: 'IncreaseCircle' object has no attribute 'xsize'
+
+While running game code:
+  File "game/script.rpy", line 30, in script
+    call screen test
+  File "renpy/common/000statements.rpy", line 671, in execute_call_screen
+    store._return = renpy.call_screen(name, *args, **kwargs)
+  File "game/input.rpy", line 92, in event
+    x = self.xsize
+AttributeError: 'IncreaseCircle' object has no attribute 'xsize'
+Resetting cache.
+Early init took 967.49s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.20s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.36s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 969.24s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.18s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.36s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 30, in script
+    call screen test
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ast.py", line 1987, in execute
+    self.call("execute")
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ast.py", line 1966, in call
+    return renpy.statements.call(method, parsed, *args, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\statements.py", line 374, in call
+    return method(parsed, *args, **kwargs)
+  File "renpy/common/000statements.rpy", line 671, in execute_call_screen
+    store._return = renpy.call_screen(name, *args, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\exports\statementexports.py", line 345, in call_screen
+    rv = renpy.ui.interact(mouse="screen", type="screen", roll_forward=roll_forward)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ui.py", line 301, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\core.py", line 2218, in interact
+    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, pause_modal=pause_modal, **kwargs) # type: ignore
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\core.py", line 3289, in interact_core
+    rv = root_widget.event(ev, x, y, 0)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\layout.py", line 1297, in event
+    rv = i.event(ev, x - xo, y - yo, cst)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\layout.py", line 1297, in event
+    rv = i.event(ev, x - xo, y - yo, cst)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\layout.py", line 1297, in event
+    rv = i.event(ev, x - xo, y - yo, cst)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\screen.py", line 794, in event
+    rv = self.child.event(ev, x, y, st)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\layout.py", line 1297, in event
+    rv = i.event(ev, x - xo, y - yo, cst)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\transform.py", line 1083, in event
+    rv = d.event(ev, cx, cy, st)
+  File "game/input.rpy", line 93, in event
+    renpy.say(None, "[x]")
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\exports\sayexports.py", line 132, in say
+    who(what, *args, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\character.py", line 1455, in __call__
+    what = self.prefix_suffix("what", self.what_prefix, what, self.what_suffix)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\character.py", line 1369, in prefix_suffix
+    return (sub(prefix) + sub(body) + sub(suffix))
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\character.py", line 1349, in sub
+    return renpy.substitutions.substitute(s, scope=scope, force=force, translate=translate)[0]
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\substitutions.py", line 373, in substitute
+    s = interpolate(s, variables) # type: ignore
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\substitutions.py", line 86, in interpolate
+    raise e
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\substitutions.py", line 78, in interpolate
+    value = renpy.python.py_eval(code, {}, scope)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\python.py", line 1215, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\python.py", line 1208, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "<none>", line 1, in <module>
+NameError: name 'x' is not defined
+
+While running game code:
+  File "game/script.rpy", line 30, in script
+    call screen test
+  File "renpy/common/000statements.rpy", line 671, in execute_call_screen
+    store._return = renpy.call_screen(name, *args, **kwargs)
+  File "game/input.rpy", line 93, in event
+    renpy.say(None, "[x]")
+NameError: name 'x' is not defined
+Resetting cache.
+Early init took 1013.30s
+Loading error handling took 0.02s
+Loading script took 0.09s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.21s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.35s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1015.03s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.19s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.36s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 30, in script
+    call screen test
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ast.py", line 1987, in execute
+    self.call("execute")
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ast.py", line 1966, in call
+    return renpy.statements.call(method, parsed, *args, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\statements.py", line 374, in call
+    return method(parsed, *args, **kwargs)
+  File "renpy/common/000statements.rpy", line 671, in execute_call_screen
+    store._return = renpy.call_screen(name, *args, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\exports\statementexports.py", line 345, in call_screen
+    rv = renpy.ui.interact(mouse="screen", type="screen", roll_forward=roll_forward)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ui.py", line 301, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\core.py", line 2218, in interact
+    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, pause_modal=pause_modal, **kwargs) # type: ignore
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\core.py", line 3289, in interact_core
+    rv = root_widget.event(ev, x, y, 0)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\layout.py", line 1297, in event
+    rv = i.event(ev, x - xo, y - yo, cst)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\layout.py", line 1297, in event
+    rv = i.event(ev, x - xo, y - yo, cst)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\layout.py", line 1297, in event
+    rv = i.event(ev, x - xo, y - yo, cst)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\screen.py", line 794, in event
+    rv = self.child.event(ev, x, y, st)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\layout.py", line 1297, in event
+    rv = i.event(ev, x - xo, y - yo, cst)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\transform.py", line 1083, in event
+    rv = d.event(ev, cx, cy, st)
+  File "game/input.rpy", line 93, in event
+    renpy.say(None, f"{x}")
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\exports\sayexports.py", line 132, in say
+    who(what, *args, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\character.py", line 1470, in __call__
+    self.do_display(who, what, cb_args=self.cb_args, dtt=dtt, **display_args)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\character.py", line 1117, in do_display
+    display_say(who,
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\character.py", line 814, in display_say
+    rv = renpy.ui.interact(mouse='say', type=type, roll_forward=roll_forward)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ui.py", line 301, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\core.py", line 2187, in interact
+    raise Exception("Cannot start an interaction in the middle of an interaction, without creating a new context.")
+Exception: Cannot start an interaction in the middle of an interaction, without creating a new context.
+
+While running game code:
+  File "game/script.rpy", line 30, in script
+    call screen test
+  File "renpy/common/000statements.rpy", line 671, in execute_call_screen
+    store._return = renpy.call_screen(name, *args, **kwargs)
+  File "game/input.rpy", line 93, in event
+    renpy.say(None, f"{x}")
+Exception: Cannot start an interaction in the middle of an interaction, without creating a new context.
+Resetting cache.
+Early init took 1030.36s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.19s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.36s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1032.10s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.20s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.37s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1056.46s
+Loading error handling took 0.01s
+Loading script took 0.09s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.20s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.33s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1079.28s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.20s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.35s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1081.04s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.19s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.39s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 1108.47s
+Loading error handling took 0.01s
+Loading script took 0.09s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+
+File "game/input.rpy", line 94: name 'x' is parameter and global
+                        global x
+                         ^
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Interface start took 0.60s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1113.14s
+Loading error handling took 0.02s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/input.rpy", line 94: name 'x' is parameter and global
+                        global x
+                         ^
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Interface start took 0.59s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1114.80s
+Loading error handling took 0.01s
+Loading script took 0.09s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+
+File "game/input.rpy", line 94: name 'x' is parameter and global
+                        global x
+                         ^
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Interface start took 0.59s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1117.99s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/input.rpy", line 94: name 'x' is parameter and global
+                        global x
+                         ^
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Interface start took 0.58s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1130.24s
+Loading error handling took 0.02s
+Loading script took 0.10s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+
+File "game/input.rpy", line 94: name 'x' is parameter and global
+                        global x
+                         ^
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Interface start took 0.60s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1134.94s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/input.rpy", line 95: name 'y' is parameter and global
+                        global y
+                         ^
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Interface start took 0.58s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1148.70s
+Loading error handling took 0.01s
+Loading script took 0.10s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+
+File "game/input.rpy", line 95: name 'y' is parameter and global
+                        global y
+                         ^
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Interface start took 0.61s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1154.87s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.21s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.39s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1156.58s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.19s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.36s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 1333.70s
+Loading error handling took 0.01s
+Loading script took 0.09s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.21s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.35s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 1375.93s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.19s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.38s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 35, in script
+    call screen test
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ast.py", line 1987, in execute
+    self.call("execute")
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ast.py", line 1966, in call
+    return renpy.statements.call(method, parsed, *args, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\statements.py", line 374, in call
+    return method(parsed, *args, **kwargs)
+  File "renpy/common/000statements.rpy", line 671, in execute_call_screen
+    store._return = renpy.call_screen(name, *args, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\exports\statementexports.py", line 345, in call_screen
+    rv = renpy.ui.interact(mouse="screen", type="screen", roll_forward=roll_forward)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ui.py", line 301, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\core.py", line 2218, in interact
+    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, pause_modal=pause_modal, **kwargs) # type: ignore
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\core.py", line 2748, in interact_core
+    root_widget.visit_all(lambda d : d.per_interact())
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\displayable.py", line 434, in visit_all
+    d.visit_all(callback, seen)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\displayable.py", line 434, in visit_all
+    d.visit_all(callback, seen)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\displayable.py", line 434, in visit_all
+    d.visit_all(callback, seen)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\screen.py", line 480, in visit_all
+    callback(self)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\core.py", line 2748, in <lambda>
+    root_widget.visit_all(lambda d : d.per_interact())
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\screen.py", line 491, in per_interact
+    self.update()
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\screen.py", line 700, in update
+    self.screen.function(**self.scope)
+  File "game/input.rpy", line 118, in execute
+    screen test:
+  File "game/input.rpy", line 118, in execute
+    screen test:
+  File "game/input.rpy", line 120, in execute
+    add IncreaseCircle("circles/circle blue.svg", target.xysize, 0.2) at startingPosition
+  File "game/input.rpy", line 120, in <module>
+    add IncreaseCircle("circles/circle blue.svg", target.xysize, 0.2) at startingPosition
+AttributeError: 'TargetBand' object has no attribute 'xysize'
+
+While running game code:
+  File "game/script.rpy", line 35, in script
+    call screen test
+  File "renpy/common/000statements.rpy", line 671, in execute_call_screen
+    store._return = renpy.call_screen(name, *args, **kwargs)
+  File "game/input.rpy", line 118, in execute
+    screen test:
+  File "game/input.rpy", line 118, in execute
+    screen test:
+  File "game/input.rpy", line 120, in execute
+    add IncreaseCircle("circles/circle blue.svg", target.xysize, 0.2) at startingPosition
+  File "game/input.rpy", line 120, in <module>
+    add IncreaseCircle("circles/circle blue.svg", target.xysize, 0.2) at startingPosition
+AttributeError: 'TargetBand' object has no attribute 'xysize'
+Resetting cache.
+Early init took 1404.92s
+Loading error handling took 0.01s
+Loading script took 0.09s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.19s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.36s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 35, in script
+    call screen test
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ast.py", line 1987, in execute
+    self.call("execute")
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ast.py", line 1966, in call
+    return renpy.statements.call(method, parsed, *args, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\statements.py", line 374, in call
+    return method(parsed, *args, **kwargs)
+  File "renpy/common/000statements.rpy", line 671, in execute_call_screen
+    store._return = renpy.call_screen(name, *args, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\exports\statementexports.py", line 345, in call_screen
+    rv = renpy.ui.interact(mouse="screen", type="screen", roll_forward=roll_forward)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ui.py", line 301, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\core.py", line 2218, in interact
+    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, pause_modal=pause_modal, **kwargs) # type: ignore
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\core.py", line 2748, in interact_core
+    root_widget.visit_all(lambda d : d.per_interact())
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\displayable.py", line 434, in visit_all
+    d.visit_all(callback, seen)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\displayable.py", line 434, in visit_all
+    d.visit_all(callback, seen)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\displayable.py", line 434, in visit_all
+    d.visit_all(callback, seen)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\screen.py", line 480, in visit_all
+    callback(self)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\core.py", line 2748, in <lambda>
+    root_widget.visit_all(lambda d : d.per_interact())
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\screen.py", line 491, in per_interact
+    self.update()
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\screen.py", line 700, in update
+    self.screen.function(**self.scope)
+  File "game/input.rpy", line 118, in execute
+    screen test:
+  File "game/input.rpy", line 118, in execute
+    screen test:
+  File "game/input.rpy", line 119, in execute
+    add TargetBand("images/circles/circle green.svg") at startingPosition as target
+  File "game/input.rpy", line 119, in <module>
+    add TargetBand("images/circles/circle green.svg") at startingPosition as target
+  File "game/TargetBand.rpy", line 7, in __init__
+    self.xysize = [l5, .5]  # Default size for the target band
+NameError: name 'l5' is not defined
+
+While running game code:
+  File "game/script.rpy", line 35, in script
+    call screen test
+  File "renpy/common/000statements.rpy", line 671, in execute_call_screen
+    store._return = renpy.call_screen(name, *args, **kwargs)
+  File "game/input.rpy", line 118, in execute
+    screen test:
+  File "game/input.rpy", line 118, in execute
+    screen test:
+  File "game/input.rpy", line 119, in execute
+    add TargetBand("images/circles/circle green.svg") at startingPosition as target
+  File "game/input.rpy", line 119, in <module>
+    add TargetBand("images/circles/circle green.svg") at startingPosition as target
+  File "game/TargetBand.rpy", line 7, in __init__
+    self.xysize = [l5, .5]  # Default size for the target band
+NameError: name 'l5' is not defined
+Resetting cache.
+Early init took 1408.13s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.19s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.37s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1409.88s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.18s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.37s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 1435.40s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.18s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.36s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1473.46s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.18s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.36s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 1517.54s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.07s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.26s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.37s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 1541.88s
+Loading error handling took 0.01s
+Loading script took 0.13s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.24s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.37s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1554.13s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.18s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.35s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1555.83s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.18s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.35s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1557.54s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.21s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.36s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 1600.10s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.18s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.36s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA T550 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 552.74'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1858, 1045) drawable=(1858, 1045)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1653.26s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\102ba\\AppData\\Roaming/RenPy/backups\\BreathingGame':
+Dump and make backups took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.22s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.36s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1920, 1080)
