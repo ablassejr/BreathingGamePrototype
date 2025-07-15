@@ -2,12 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/breathing.rpy", line 46: expected statement.
-    def audioManager():
-                    ^
-
-File "game/breathing.rpy", line 45: unexpected EOF while parsing
-        @staticmethod
+File "game/input.rpy", line 119: keyword argument 'at' appears more than once in a add statement.
+    add TargetBand("images/circles/circle green.svg") at startingPosition as target at startingPosition
+                                                                                      ^
 
 Ren'Py Version: Ren'Py 8.3.6.25022803
-Thu Jul 10 16:13:53 2025
+Mon Jul 14 17:24:50 2025
