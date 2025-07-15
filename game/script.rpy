@@ -11,11 +11,14 @@ label start:
     default unsuccessful_attempts = 0
     default stress = 60
     default stress_amount = 50
+    
+    default target_x = 0
+    default target_y = 0
 
     # Used for debugging size checks
     # default x1 = 0
     # default y1 = 0
-    # default x2 = 0
+    default x2 = 0
     # default y2 = 0
 
     scene breathe start with dissolve

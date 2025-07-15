@@ -21,7 +21,7 @@ init python:
 
             self.reset_timer = 0.0
             self.difficulty = difficulty
-            self.targetSize = targetSize  # Target size to compare against
+            # self.targetSize = targetSize  # Target size to compare against
 
         # Renders the image onto the screen
         def render(self,width,height,st,at):
@@ -100,7 +100,7 @@ init python:
                         # x2 = self.targetSize[0]
                         # y2 = self.targetSize[1]
 
-                        if abs(self.xysize[0] - self.targetSize[0]) < inputWindow and abs(self.xysize[1] - self.targetSize[1]) < inputWindow: ## change to size
+                        if abs(self.xysize[0] - (target_x - .015)) < inputWindow and abs(self.xysize[1] - (target_y - .015)) < inputWindow: ## change to size
                             status += 1
                             successful_attempts += 1
                             # renpy.show("circle green1")
@@ -116,6 +116,7 @@ init python:
             return None
 
 screen test:
-    add TargetBand("images/circles/circle green.svg") at startingPosition as target
+    $ size = renpy.random.randint(380, 420)
+    add TargetBand("images/circles/circle green.svg", size, size) at startingPosition as target
     $ difficulty = renpy.random.random() % 0.4 + 0.15
-    add IncreaseCircle("circles/circle blue.svg", target.xysize, difficulty) at startingPosition
+    add IncreaseCircle("circles/circle blue.svg", difficulty) at startingPosition

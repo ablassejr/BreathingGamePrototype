@@ -1,16 +1,31 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-  File "game/script.rpy", line 38, in script
+  File "game/script.rpy", line 41, in script
+    call screen test
+  File "game/script.rpy", line 41, in script
     call screen test
   File "renpy/common/000statements.rpy", line 671, in execute_call_screen
     store._return = renpy.call_screen(name, *args, **kwargs)
-Exception: Render not implemented.
+  File "game/TargetBand.rpy", line 13, in render
+    child_render = renpy.render(self.start_image, width, height, st, at, xanchor=0.5, yanchor=0.5)
+TypeError: render() got an unexpected keyword argument 'xanchor'
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "game/script.rpy", line 38, in script
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\bootstrap.py", line 359, in bootstrap
+    renpy.main.main()
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\main.py", line 652, in main
+    run(restart)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\main.py", line 148, in run
+    renpy.execution.run_context(True)
+  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\execution.py", line 958, in run_context
+    context.run()
+  File "game/script.rpy", line 41, in script
+    call screen test
+  File "lib/python3.9/future/utils/__init__.py", line 444, in raise_
+  File "game/script.rpy", line 41, in script
     call screen test
   File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\ast.py", line 1987, in execute
     self.call("execute")
@@ -57,11 +72,12 @@ Full traceback:
   File "accelerator.pyx", line 994, in renpy.display.accelerator.RenderTransform.render
   File "accelerator.pyx", line 427, in renpy.display.accelerator.RenderTransform.render_child
   File "render.pyx", line 260, in renpy.display.render.render
-  File "C:\Users\102ba\Downloads\renpy-8.3.6-sdk\renpy\display\displayable.py", line 390, in render
-    raise Exception("Render not implemented.")
-Exception: Render not implemented.
+  File "game/TargetBand.rpy", line 13, in render
+    child_render = renpy.render(self.start_image, width, height, st, at, xanchor=0.5, yanchor=0.5)
+  File "render.pyx", line 170, in renpy.display.render.render
+TypeError: render() got an unexpected keyword argument 'xanchor'
 
 Windows-10-10.0.26100 AMD64
 Ren'Py 8.3.6.25022803
 BreathingGamePrototype 1.0
-Mon Jul 14 16:58:18 2025
+Tue Jul 15 11:35:24 2025
