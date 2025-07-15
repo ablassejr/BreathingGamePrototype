@@ -2,9 +2,31 @@
 errors listed below, and try again.
 
 
-File "game/input.rpy", line 119: keyword argument 'at' appears more than once in a add statement.
-    add TargetBand("images/circles/circle green.svg") at startingPosition as target at startingPosition
-                                                                                      ^
+File "game/TargetBand.rpy", line 7: expected statement.
+    <<<<<<< HEAD
+                ^
 
-Ren'Py Version: Ren'Py 8.3.6.25022803
-Mon Jul 14 17:24:50 2025
+File "game/TargetBand.rpy", line 9: expected statement.
+    =======
+          ^
+
+File "game/TargetBand.rpy", line 11: expected statement.
+    >>>>>>> main
+                ^
+
+File "game/TargetBand.rpy", line 18: expected statement.
+    <<<<<<< HEAD
+                ^
+
+File "game/TargetBand.rpy", line 24: expected statement.
+    =======
+          ^
+
+File "game/TargetBand.rpy", line 34: expected statement.
+    >>>>>>> main
+                ^
+
+File "game/input.rpy", line 80: Indentation mismatch.
+
+Ren'Py Version: Ren'Py 8.3.7.25031702
+Mon Jul 14 20:25:21 2025

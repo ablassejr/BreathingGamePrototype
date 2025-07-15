@@ -32,23 +32,14 @@ label start:
     $ breathe = Breathing() # class object to call functions
     $ breathe.characterStateChanger() # shows initial face
 
-<<<<<<< HEAD
-    #show circle red1 at startingPosition
-=======
     # show circle red1 at startingPosition
->>>>>>> main
 
     while attempts < 3:
         $ Breathing.audioManager()
         call screen test
-<<<<<<< HEAD
-        pause .55
-        hide circle red1
-=======
         # pause .55
         # hide circle red1
         # show circle red1 at startingPosition
->>>>>>> main
         $ attempts += 1
         $ breathe.characterStateChanger()
 
