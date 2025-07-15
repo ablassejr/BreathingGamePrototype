@@ -3,7 +3,7 @@ init python:
 
     class Breathing:
 
-        def characterStateChanger(self):
+        def characterStateChanger(state):
 
             if status >= 2:
                 renpy.call("calm2")
@@ -19,6 +19,8 @@ init python:
 
         def results(self):
             global stress
+            global successful_attempts
+            global attempts
 
             if successful_attempts >= 3:
                 stress += stress_amount*.25
@@ -28,12 +30,14 @@ init python:
                 stress +=stress_amount*.75
             else:
                 stress +=stress_amount
-            # Reset Status Counters
-            store.successful_attempts = 0
-            store.attempts = 0
-            return store.stress
+
+            successful_attempts = 0
+            attempts = 0
+            
+            return stress
 
         def ending(self):
+            renpy.music.stop(channel="sound", fadeout=3.0)
             if stress > 100:
                 renpy.jump("fail")
             elif status == 3:
@@ -49,10 +53,10 @@ init python:
             global successful_attempts
             global unsuccessful_attempts
             global stress
-            global breathinggameactive
+            # global breathinggameactive
 
-            if not breathinggameactive:
-                return
+            # if not breathinggameactive:
+            #     return
 
             stageofstress = successful_attempts - unsuccessful_attempts
 
